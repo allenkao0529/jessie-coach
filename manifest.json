@@ -1,0 +1,16 @@
+{
+  "name": "Jessie教練課管理",
+  "short_name": "Jessie教練課管理",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f1f5f9",
+  "theme_color": "#1e293b",
+  "icons": [
+    {
+      "src": "timetable.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
